@@ -3,7 +3,11 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
+<<<<<<< HEAD
 -- Generation Time: Apr 22, 2018 at 04:53 AM
+=======
+-- Generation Time: Apr 22, 2018 at 03:40 AM
+>>>>>>> 95326e9fc387b73794b043c0ce3cc6e072a61919
 -- Server version: 10.1.26-MariaDB
 -- PHP Version: 7.1.9
 
@@ -44,6 +48,7 @@ INSERT INTO `tbbarang` (`kode`, `nama`, `jenis`) VALUES
 -- --------------------------------------------------------
 
 --
+<<<<<<< HEAD
 -- Table structure for table `tbjabatan`
 --
 
@@ -104,6 +109,8 @@ INSERT INTO `tbtransaksi` (`nip`, `kdjab`, `overtime`, `gajibersih`) VALUES
 -- --------------------------------------------------------
 
 --
+=======
+>>>>>>> 95326e9fc387b73794b043c0ce3cc6e072a61919
 -- Table structure for table `tb_barang`
 --
 
